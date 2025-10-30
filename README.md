@@ -21,6 +21,8 @@ If you want a more attractive GUI, you can first install the ttkthemes module. H
 pip install ttkthemes
 ```
 
+![screenshot](assets/screenshot.png)
+
 # OTP-Key-Generator
 This program can generate a number of keys and put them in a file to use them in OTP. Because the keys are disposable.
 
