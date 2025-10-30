@@ -16,7 +16,7 @@ In this program, there is an option called use hex key.  If you enable this opti
 This tool has no protection against side-channel attacks
 
 ---
-To use it first install ttkthemes:
+If you want a more attractive GUI, you can first install the ttkthemes module. However, it will also work without it:
 ```
 pip install ttkthemes
 ```
